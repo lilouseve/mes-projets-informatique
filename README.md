@@ -29,6 +29,7 @@ Documentation de mes TP et projets, rédigée sur HackMD puis rangée ici par th
 
 - [Projet 1 — Site vitrine pour un artisan local](<04-developpement-web/Projet 1 — Site vitrine pour un artisan local.md>)
 - [Projet 2 — Cartes de compétences (projet de groupe)](<04-developpement-web/Projet 2 — Cartes de compétences (projet de groupe).md>)
+- [Projet 3 — Site de demande de devis pour un atelier PC (projet de groupe)](<04-developpement-web/Projet 3 — Site de demande de devis pour un atelier PC (projet de groupe).md>)
 
 ## Jeu Unity : course sur toboggan aquatique (projet de groupe)
 
