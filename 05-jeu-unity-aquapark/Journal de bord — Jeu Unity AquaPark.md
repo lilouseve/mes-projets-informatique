@@ -18,7 +18,6 @@ Je fais le lien entre tout le monde : j'ai créé le projet commun, je code la c
 | Tests sans attendre les autres | Scènes `Test_Camera` et `Test_Rules` + faux joueur |
 | Suivi du groupe | Tableau Excel `SUIVI_PROJET.xlsx` |
 | Vérification et fusion des Pull Requests | GitHub + tests dans Unity |
-| Aide pour écrire et tester le code | Assistant IA (Claude) |
 
 ## 2. Étape 1 : Mise en place du projet (Phase 1)
 
@@ -86,7 +85,7 @@ Pour chaque PR : je regarde les fichiers modifiés, je relis le code, je vérifi
 
 | PR | Personne | Contenu | Résultat |
 |---|---|---|---|
-| #1 | Moi | Caméra, règles, Test_Rules, tableau de suivi | Fusionnée |
+| #1 | Lilou | Caméra, règles, Test_Rules, tableau de suivi | Fusionnée |
 | #2 | Deaa | Obstacles, bonus, zones, tremplins | Fusionnée |
 | #4 | Sofia | Circuit complet (~1 min), checkpoints, décor, piscine | Fusionnée |
 | #3 | Drilon | Déplacement du joueur, chute, 6 personnages | Fusionnée (corrections demandées) |
