@@ -25,9 +25,10 @@ Documentation de mes TP et projets, rédigée sur HackMD puis rangée ici par th
 - [Projet 4 — Migration d'un serveur physique vers une VM (P2V)](<03-virtualisation/Projet 4 — Migration d'un serveur physique vers une VM (P2V).md>)
 - [Projet 5 — Comparatif d'hyperviseurs pour un cahier des charges client](<03-virtualisation/Projet 5 — Comparatif d'hyperviseurs pour un cahier des charges client.md>)
 
-## Développement web (HTML / CSS)
+## Développement web
 
 - [Projet 1 — Site vitrine pour un artisan local](<04-developpement-web/Projet 1 — Site vitrine pour un artisan local.md>)
+- [Projet 2 — Cartes de compétences (projet de groupe)](<04-developpement-web/Projet 2 — Cartes de compétences (projet de groupe).md>)
 
 ## Jeu Unity : course sur toboggan aquatique (projet de groupe)
 
