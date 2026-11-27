@@ -31,7 +31,7 @@ Documentation de mes TP et projets, rédigée sur HackMD puis rangée ici par th
 
 ## Jeu Unity : course sur toboggan aquatique (projet de groupe)
 
-- [Journal de bord – Lilou (Personne 5)](<05-jeu-unity-aquapark/Journal de bord — Jeu Unity AquaPark.md>)
+- [Journal de bord — Jeu Unity AquaPark](<05-jeu-unity-aquapark/Journal de bord — Jeu Unity AquaPark.md>)
 
 ---
 
