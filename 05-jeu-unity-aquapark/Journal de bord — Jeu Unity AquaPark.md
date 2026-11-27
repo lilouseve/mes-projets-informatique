@@ -89,7 +89,7 @@ Pour chaque PR : je regarde les fichiers modifiés, je relis le code, je vérifi
 | #2 | Deaa | Obstacles, bonus, zones, tremplins | Fusionnée |
 | #4 | Sofia | Circuit complet (~1 min), checkpoints, décor, piscine | Fusionnée |
 | #3 | Drilon | Déplacement du joueur, chute, 6 personnages | Fusionnée (corrections demandées) |
-| – | Art | Menu, HUD, chrono | Fusionnée |
+| #5 | Art | Menu, HUD, chrono | Fusionnée |
 
 ### 4.3 Test d'intégration (tout le monde ensemble)
 
