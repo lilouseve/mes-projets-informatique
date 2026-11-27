@@ -4,7 +4,6 @@ Documentation de mes TP et projets, rédigée sur HackMD puis rangée ici par th
 
 ## Technicien IT : hardware et postes de travail
 
-- [TP Final — Épreuve Technicien IT](<01-technicien-it-hardware-et-postes/TP Final — Épreuve Technicien IT.md>)
 - [Projet 1 — Poste de travail pour un cabinet comptable](<01-technicien-it-hardware-et-postes/Projet 1 — Poste de travail pour un cabinet comptable.md>)
 - [Projet 2 — Poste multi-utilisateurs pour salle informatique](<01-technicien-it-hardware-et-postes/Projet 2 — Poste multi-utilisateurs pour salle informatique.md>)
 - [Projet 3 — Migration et sauvegarde d'un poste existant](<01-technicien-it-hardware-et-postes/Projet 3 — Migration et sauvegarde d'un poste existant.md>)
@@ -12,7 +11,6 @@ Documentation de mes TP et projets, rédigée sur HackMD puis rangée ici par th
 
 ## Réseau (ICND1 / Networking Essentials)
 
-- [TP Final ICND1 — Mission d'Ingénieur Réseau](<02-reseau/TP Final ICND1 — Mission d'Ingénieur Réseau.md>)
 - [Projet 1 — Câblage et adressage IP d'un petit bureau](<02-reseau/Projet 1 — Câblage et adressage IP d'un petit bureau.md>)
 - [Projet 2 — Segmentation en VLAN d'un réseau d'entreprise](<02-reseau/Projet 2 — Segmentation en VLAN d'un réseau d'entreprise.md>)
 - [Projet 3 — Mise en place d'un routeur/pare-feu pour une petite entreprise](<02-reseau/Projet 3 — Mise en place d'un routeur-pare-feu pour une petite entreprise.md>)
@@ -21,7 +19,6 @@ Documentation de mes TP et projets, rédigée sur HackMD puis rangée ici par th
 
 ## Virtualisation
 
-- [TP Final — Virtualisation](<03-virtualisation/TP Final — Virtualisation.md>)
 - [Projet 1 — Infrastructure virtuelle pour une PME](<03-virtualisation/Projet 1 — Infrastructure virtuelle pour une PME.md>)
 - [Projet 2 — Snapshots et plan de reprise d'une VM critique](<03-virtualisation/Projet 2 — Snapshots et plan de reprise d'une VM critique.md>)
 - [Projet 3 — Réseau virtuel isolé (labo de test)](<03-virtualisation/Projet 3 — Réseau virtuel isolé (labo de test).md>)
